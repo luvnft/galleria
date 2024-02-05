@@ -23,7 +23,7 @@ const Hero = () => {
       </a>
 
       <div className="text-center">
-       <h1 class="bg-gradient-to-r from-white via-accent to-blue-500 bg-clip-text text-5xl font-bold tracking-tighter text-transparent sm:text-7xl/none">
+       <h1 className="bg-gradient-to-r from-white via-accent to-blue-500 bg-clip-text text-5xl font-bold tracking-tighter text-transparent sm:text-7xl/none">
         SOLEYE
        </h1>
 
