@@ -10,8 +10,8 @@ import "react-toastify/dist/ReactToastify.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Galleria",
-  description: "A portfolio viewer from Helius Labs",
+  title: "Soleye",
+  description: "Your all-seeing eye into the Solana blockchain",
 };
 
 const RootLayout = ({ children }: { children: React.ReactNode }) => {
