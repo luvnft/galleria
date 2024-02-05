@@ -30,11 +30,11 @@ const config: Config = {
     themes: [
       {
         Helius: {
-          primary: "#E4552E",
+          primary: "#0000FF",
 
-          secondary: "#a03b20",
+          secondary: "#03E1FF ",
 
-          accent: "#ffaf99",
+          accent: "#DC1FFF ",
 
           neutral: "#454549",
 
