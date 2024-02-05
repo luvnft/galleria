@@ -24,7 +24,7 @@ const Hero = () => {
 
         <div className="text-center">
         <h1 className="mt-6 text-base leading-8 text-gray-300 sm:text-7xl/none">
-          SOLEYE
+          🧿 SOLEYE
         </h1>
 
         <p className="mt-6 text-base leading-8 text-gray-300 sm:text-lg">
