@@ -2493,7 +2493,7 @@ select {
 }
 
 .bg-radial-gradient {
-  background-image: radial-gradient(73.15% 70.06% at 50% -10.9%, rgba(228, 85, 46, 0.70) 0%, #222 100%);
+  background-image: radial-gradient(73.15% 70.06% at 50% -10.9%, #000000 0%, #00FF00 100%);
 }
 
 .from-white\/50 {

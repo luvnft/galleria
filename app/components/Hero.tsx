@@ -24,17 +24,17 @@ const Hero = () => {
 
       <div className="text-center">
         <h1 className="bg-gradient-to-r from-white via-accent to-primary bg-clip-text text-5xl font-bold tracking-tighter text-transparent sm:text-7xl/none">
-         🧿 SOLEYE
+         SOLEYE
         </h1>
         <p className="mt-6 text-base leading-8 text-gray-300 sm:text-lg">
          Your all-seeing eye into the Solana blockchain.
         </p>
-        <p className="mt-6 text-base leading-8 text-gray-300 sm:text-lg">
-         🧿 Retrieval and display of all tokens within a specified wallet.
-         🧿 Support for both fungible and non-fungible tokens.
-         🧿 Detailed information on Compressed NFTs, ProgrammableNFTs, Inscriptions, and Token Extensions (Token2022).
-         🧿 Retrieval and display of token data such as token supply and token prices for fungible tokens.
-        </p>
+        <ul className="mt-6 text-base leading-8 text-gray-300 sm:text-lg">
+        <li>🧿 Retrieval and display of all tokens within a specified wallet.</li>
+        <li>🧿 Support for both fungible and non-fungible tokens.</li>
+        <li>🧿 Detailed information on Compressed NFTs, ProgrammableNFTs, Inscriptions, and Token Extensions (Token2022).</li>
+        <li>🧿 Retrieval and display of token data such as token supply and token prices for fungible tokens.</li>
+        </ul>
         <div className="mt-10 flex items-center justify-center gap-x-6">
           <WalletInput source={"hero"} />
         </div>
