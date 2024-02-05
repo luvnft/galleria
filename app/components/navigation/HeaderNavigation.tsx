@@ -29,11 +29,11 @@ const HeaderNavigation = ({ setSidebarOpen }: HeaderNavigationProps) => {
             {/* Heluis.dev button */}
             <a
               className="flex items-center justify-center rounded-full bg-indigo-100/5 px-1 py-1 text-xs font-semibold leading-6 text-accent ring-1 ring-inset ring-accent/10 transition duration-200 ease-in-out hover:ring-accent/30 md:px-3 lg:text-sm"
-              href="https://linktr.ee/luvnft"
+              href="https://metavegas.luvnft.com"
               target="_blank"
               rel="noreferrer noopener"
             >
-              Linktree
+              🎰 MetaVegas
             </a>
 
             {/* Separator */}
@@ -45,11 +45,11 @@ const HeaderNavigation = ({ setSidebarOpen }: HeaderNavigationProps) => {
             {/* Heluis.dev button */}
             <a
               className="flex items-center justify-center rounded-full bg-indigo-100/5 px-1 py-1 text-xs font-semibold leading-6 text-white ring-1 ring-inset ring-white/10 transition duration-200 ease-in-out hover:ring-white/30 md:px-3 lg:text-sm"
-              href="https://helius.dev"
+              href="https://solsea.io/c/61abfcb7ef2d14bc378c5be4"
               target="_blank"
               rel="noreferrer noopener"
             >
-              🎰 MetaVegas
+              💈 5D LUVR Philly
             </a>
 
             {/* Separator */}
