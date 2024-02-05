@@ -23,9 +23,10 @@ const Hero = () => {
       </a>
 
       <div className="text-center">
-        <h1 className="bg-gradient-to-r from-white via-accent to-primary bg-clip-text text-5xl font-bold tracking-tighter text-transparent sm:text-7xl/none">
-         SOLEYE
-        </h1>
+       <h1 class="bg-gradient-to-r from-white via-accent to-blue-500 bg-clip-text text-5xl font-bold tracking-tighter text-transparent sm:text-7xl/none">
+        SOLEYE
+       </h1>
+
         <p className="mt-6 text-base leading-8 text-gray-300 sm:text-lg">
          Your all-seeing eye into the Solana blockchain.
         </p>

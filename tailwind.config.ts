@@ -21,38 +21,25 @@ const config: Config = {
       },
     },
   },
-
-  plugins: [
-    require("daisyui"),
-    require('@tailwindcss/forms'),
-  ],
+  plugins: [require("daisyui"), require("@tailwindcss/forms")],
   daisyui: {
     themes: [
       {
         Helius: {
           primary: "#0000FF",
-
           secondary: "#03E1FF ",
-
           accent: "#DC1FFF ",
-
           neutral: "#454549",
-
           "neutral-2": "#5F5F5F",
-
           "base-100": "#222222",
-
           info: "#008ce5",
-
           success: "#84cc16",
-
           warning: "#fb923c",
-
           error: "#dc2626",
         },
       },
     ],
-    darkTheme: false,
+    darkTheme: true, // Set this to true to force daisyui to use the dark theme
   },
 };
 export default config;
