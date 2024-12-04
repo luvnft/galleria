@@ -49,7 +49,7 @@ const Hero = () => {
         {/* Helius hyperlink section */}
         <div className="mt-16">
           <a
-            href="https://metavegas.luvnft.com"
+            href="https://love.hahz.live"
             target="_blank"
             rel="noopener noreferrer"
             className="group inline-flex items-center gap-x-3 rounded-full bg-indigo-100/5 px-3 py-1 text-sm font-semibold leading-6 text-accent ring-1 ring-inset ring-accent/10 transition duration-200 ease-in-out hover:ring-accent/30"
@@ -70,7 +70,7 @@ const Hero = () => {
             </svg>
 
             <span className="opacity-80 transition-all duration-200 ease-in-out group-hover:opacity-100">
-              MetaVegas $SOL Casino
+              HAHZ LOVE Manifest SOL Game
             </span>
 
             <svg
@@ -99,7 +99,7 @@ const DASHyperLink = ({ className }: { className?: string }) => {
     <>
       <div className="group hidden sm:block">
         <a
-          href="https://metavegas.luvnft.com"
+          href="https://love.hahz.live"
           target="_blank"
           rel="noopener noreferrer"
           className={classNames(
@@ -123,7 +123,7 @@ const DASHyperLink = ({ className }: { className?: string }) => {
           </svg>
 
           <span className="ml-2 text-sm font-light text-white opacity-70 transition-all duration-200 ease-in-out group-hover:opacity-100">
-            MetaVegas $SOL Casino
+            HAHZ LOVE Manifest SOL Game 
           </span>
 
           <svg
